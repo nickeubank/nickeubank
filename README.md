@@ -1,6 +1,6 @@
 # Hi there, I'm Nick! 👋
 
-- 📚 I am an Assistant Research Professor in Political Science @ Duke University.
+- 📚 I am an Associate Research Professor in Political Science @ Duke University.
 - 🎓 I teach in the Masters of Interdisciplinary Data Science (MIDS) program.
 - 🔬 I study criminal justice, election administration, and political accountability.
 - 🐍 I created a [Programming for Python Data Science: Principles to Practice](https://www.coursera.org/specializations/python-for-data-science) Specialization on Coursera.
